@@ -1,0 +1,4 @@
+.env
+.git*
+gerar_imagem_docker.sh
+tmp/
